@@ -5,7 +5,7 @@ Flower.ai and LeRobot (Hugging Face): Federated Learning for Scalable Robotics
 
 This project is located in the main directory [Flower&LeRobot_example](https://github.com/adap/flower/tree/main/examples/quickstart-lerobot/lerobot_example). This code implements a **federated application** using **[Flower](https://flower.ai)** and **[LeRobot from Hugging Face](https://github.com/huggingface/lerobot)** to train models with distributed data. It is part of a **research project** focused on exploring federated learning techniques in the context of real-world robotics.
 
-## Overview
+## Overview of the Original Repository: Flower & LeRobot Federated Learning
 
 This experiment focuses on training a robot to correctly position letters of the alphabet. Currently, the model is trained to place the letter "T," with the goal of eventually extending it to the entire alphabet. The project is part of a broader research initiative aimed at exploring federated learning techniques within real-world robotics applications.
 
@@ -18,7 +18,6 @@ Federated learning enables these robots to enhance their models collaboratively 
 ## Broader Applications of Federated Learning
 
 Federated learning can be applied to any device, system, or application where privacy is crucial, including healthcare and personal spaces. **It is particularly promising for the legal field**, such as **jurisprudence**, where privacy concerns are paramount but technological advancements are necessary. This approach allows robust model development without compromising sensitive data, offering a solution to balance privacy with progress in critical sectors.
-
 
 
 ## 1. Client: `client_app.py`
