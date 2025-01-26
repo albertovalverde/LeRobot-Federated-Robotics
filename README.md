@@ -32,9 +32,9 @@ The task defines the dataset and its transformation. In this case, the **dataset
 - **Dataset**: The `lerobot/pusht` dataset and its corresponding transformations are defined.
 - **Data partitioning**: `GroupedNaturalIdPartitioner` is used to partition the data to simulate multiple training nodes.
 
-## 4. Flower Application
+## 4. Flower Framework
 
-Flower is used to combine the **clients** and the **server** into distributed applications that allow federated model training.
+[Flower](https://flower.ai) is used to combine the **clients** and the **server** into distributed applications that allow federated model training.
 
 ### Main functionalities:
 - **Federation**: Data is partitioned using `GroupedNaturalIdPartitioner` to simulate multiple training nodes in a federated system.
