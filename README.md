@@ -1,4 +1,4 @@
-# LeRobot-Federated-Robotics
+# Flower&LeRobot-Federated-Robotics
 Flower.ai and LeRobot (Hugging Face): Federated Learning for Scalable Robotics
 
 # Federated Application with Flower and Hugging Face
