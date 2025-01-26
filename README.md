@@ -2,7 +2,8 @@
 
 This project is located in the main directory **[Flower&LeRobot_example](https://github.com/adap/flower/tree/main/examples/quickstart-lerobot/lerobot_example)**. This code implements a **federated application** using **[Flower](https://flower.ai)** and **[LeRobot from Hugging Face](https://github.com/huggingface/lerobot)** to train models with distributed data. It is part of a **research project** focused on exploring federated learning techniques in the context of real-world robotics.
 
-https://github.com/albertovalverde/LeRobot-Federated-Robotics/blob/main/_static/render_compose.gif
+![LeRobot Federated Robotics](https://github.com/albertovalverde/LeRobot-Federated-Robotics/blob/main/_static/render_compose.gif)
+
 
 ## Overview of the Original Repository: Flower & LeRobot Federated Learning
 
