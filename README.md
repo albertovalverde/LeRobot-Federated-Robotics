@@ -11,6 +11,11 @@ This research explores how **federated learning** can improve humanoid robots in
 
 Federated learning enables these robots to enhance their models collaboratively across different clients without exchanging sensitive data. This approach ensures that the robots benefit from a global model while maintaining privacy, making it ideal for environments where security is paramount and data sharing is not feasible.
 
+## Broader Applications of Federated Learning
+
+Federated learning can be applied to any device, system, or application where privacy is crucial, including healthcare and personal spaces. **It is particularly promising for the legal field**, such as **jurisprudence**, where privacy concerns are paramount but technological advancements are necessary. This approach allows robust model development without compromising sensitive data, offering a solution to balance privacy with progress in critical sectors.
+
+
 
 ## 1. Client: `client_app.py`
 
