@@ -10,7 +10,7 @@ This experiment focuses on training a robot to correctly position letters of the
 
 # Research on Federated Learning for Humanoid Robots
 
-This research explores how **federated learning** can improve humanoid robots in **privacy-sensitive environments** like **homes** and **hospitals**. These robots, equipped with cameras and sensors, collect valuable interaction data that cannot be shared due to privacy concerns.
+This research explores how **federated learning** can improve humanoid robots in **privacy-sensitive environments** like hospitals, homes, factories, or even industries. These robots, equipped with cameras and sensors, collect valuable interaction data that cannot be shared due to privacy concerns.
 
 Federated learning enables these robots to enhance their models collaboratively across different clients without exchanging sensitive data. This approach ensures that the robots benefit from a global model while maintaining privacy, making it ideal for environments where security is paramount and data sharing is not feasible.
 
