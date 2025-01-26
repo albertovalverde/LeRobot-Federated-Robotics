@@ -68,9 +68,8 @@ The task defines the dataset and its transformation. In this case, the **dataset
 Start by cloning the example project. We prepared a single-line command that you can copy into your shell which will checkout the example for you:
 
 ```shell
-git clone --depth=1 https://github.com/adap/flower.git _tmp \
-		&& mv _tmp/examples/quickstart-lerobot . \
-		&& rm -rf _tmp && cd quickstart-lerobot
+git clone https://github.com/albertovalverde/LeRobot-Federated-Robotics.git
+
 ```
 
 This will create a new directory called `quickstart-lerobot` containing the following files:
