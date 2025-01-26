@@ -4,10 +4,7 @@ This project is located in the main directory **[Flower&LeRobot_example](https:/
 
 ## Overview of the Original Repository: Flower & LeRobot Federated Learning
 
-This experiment focuses on training a robot to correctly position letters of the alphabet. Currently, the model is trained to place the letter "T," with the goal of eventually extending it to the entire alphabet. The project is part of a broader research initiative aimed at exploring federated learning techniques within real-world robotics applications.
-
-### Watch the Project Overview Video
-To better understand the project, you can watch the video below explaining the experiment:
+This experiment focuses on training a robot to correctly position letters of the alphabet. Currently, the model is trained to place the letter "T," with the goal of eventually extending it to the entire alphabet. The project is part of a broader research initiative aimed at exploring federated learning techniques within real-world robotics applications. To better understand the project, you can watch the video below explaining the experiment:
 [Project Overview Video](https://www.youtube.com/watch?v=fwAtTOZttWo)
 
 
